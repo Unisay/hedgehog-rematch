@@ -1,5 +1,3 @@
-{-# LANGUAGE FlexibleContexts #-}
-
 module Hedgehog.Rematch
     ( verify
     ) where
